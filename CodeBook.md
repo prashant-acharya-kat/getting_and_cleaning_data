@@ -1,7 +1,7 @@
-Dataset description
+Main data points:
 
 Identifiers
-"activity": The type of activity
+"activity_name_": The type of activity
 "subject": The subject ID
 
 Activity column has 6 types as listed below.
@@ -13,6 +13,7 @@ STANDING
 LAYING
 
 Measurements
+These consists of standard deviation and mean data type for the sensor data .
 
 "activity"
 "subject"
