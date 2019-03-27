@@ -13,6 +13,7 @@ STANDING
 LAYING
 
 Measurements
+
 "activity"
 "subject"
 "tBodyAcc-mean()-X"
