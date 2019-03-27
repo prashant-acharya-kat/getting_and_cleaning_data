@@ -3,7 +3,7 @@ Dataset description
 Only mean and standard deviation values have been considered from the sensor data set.
 
 Identifiers
-"activity": The type of activity
+"activity_name_": The type of activity
 "subject": The subject ID
 
 Activity column has 6 types as listed below.
@@ -15,7 +15,7 @@ STANDING
 LAYING
 
 Measurements
-"activity"
+"activity_name_"
 "subject"
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
